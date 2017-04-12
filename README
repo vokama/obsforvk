@@ -1,0 +1,6 @@
+Custom modification of OBS Studio made specifically for use with VK.
+
+The goal of this project is to make the process of setting up before stream as simple as it gets for any user out there.
+
+Though anyone is welcome to examine the code, it is not very comfortable to read and understand, as a lot of solutions applied are somewhat hackish.
+More convenient version is on the way.
